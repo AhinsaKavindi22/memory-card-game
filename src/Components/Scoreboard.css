@@ -1,0 +1,11 @@
+.scoreboard {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 450px;
+  margin: 20px auto;
+  font-size: 1.5rem;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+}

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 20px;
+}
+
+.game-over {
+    margin-top: 40px;
+}
